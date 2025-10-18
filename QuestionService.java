@@ -20,7 +20,6 @@ public class QuestionService {
              System.out.println("Question No. : " + q.getId());
              System.out.println(q.getQuestion());
              System.out.println(q.getOpt1());
-             System.out.println(q.getOpt1());
              System.out.println(q.getOpt2());
              System.out.println(q.getOpt3());
              System.out.println(q.getOpt4());
